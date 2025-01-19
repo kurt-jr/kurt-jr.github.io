@@ -1,12 +1,26 @@
 /* General Styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
     margin: 0;
     padding: 0;
+    text-align: center;
     background-color: #f4f4f9;
-    color: #333;
+    color: #dd0606;
 }
-
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #06007c;
+  }
+  
+  li {
+    display: block;
+    padding: 10px;
+    float: right;
+    color: #010101;
+  }
 /* Header Styles */
 header {
     background-color: #333;
@@ -45,7 +59,7 @@ main a:hover {
 /* Footer Styles */
 footer {
     background-color: #333;
-    color: white;
+    color: rgb(148, 8, 8);
     padding: 1rem 0;
     text-align: center;
     margin-top: 2rem;
