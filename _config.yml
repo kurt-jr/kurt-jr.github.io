@@ -1,5 +1,5 @@
 title: Kurt Samuels Jr
 logo: /assets/msds 2024-06-26 .png
 #description:
-#show downloads:
+show downloads: false
 theme: jekyll-theme-dinky
