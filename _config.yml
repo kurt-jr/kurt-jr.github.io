@@ -9,14 +9,14 @@ show_downloads: true
 theme: jekyll-theme-dinky
 
 # External links
-external_links:
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/kurt-jr
+#external_links:
+ # - name: LinkedIn
+    #url: https://www.linkedin.com/in/kurt-jr
 
 # GitHub links
-github:
-  zip_url: /assets/msdsResume.pdf
-  another_url: https://www.linkedin.com/in/kurt-jr
+#github:
+ # zip_url: /assets/msdsResume.pdf
+  #another_url: https://www.linkedin.com/in/kurt-jr
 
 # Plugins
 plugins:
