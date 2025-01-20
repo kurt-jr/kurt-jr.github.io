@@ -15,4 +15,4 @@
 
 ### A Phenomenological Examination of Vocal Similarity among Siblings: Investigating the Mechanisms and Implications
 [Undergraduate Research](https://ftl4n1.wixsite.com/lonckelab/vocal-similarity-among-siblings)
-[CogSci Poster](/assets/vocal_similarities_poster.pptx)
+![CogSci Poster](/assets/poster.png)
