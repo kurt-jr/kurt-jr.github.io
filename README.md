@@ -1,5 +1,4 @@
-
-## Data Scientist | Python, R, SQL, AWS, C
+# Data Scientist | Python, R, SQL, AWS, C
 ![SDS](/assets/SDSVLogo.png)
 
 ## Education
