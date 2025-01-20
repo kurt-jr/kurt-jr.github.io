@@ -1,4 +1,4 @@
-# **Kurt Samuels Jr**
+[pfp](/assets/msds.png)
 ## Data Scientist
 
 #### Technical Skills: Python, R, SQL, AWS, C
