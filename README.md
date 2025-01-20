@@ -1,6 +1,6 @@
 
 ## Data Scientist
-
+![SDS](/assets/SDSLogo.png)
 #### Technical Skills: Python, R, SQL, AWS, C
 
 ## Education
