@@ -6,7 +6,7 @@
 - B.A., Cognitive Sciecne - Psychology | The University of Virginia (_May 2024_)
 
 ## Experience
-**MSDS Admissions Ambassador @ UVA School of Data Science(_June 2024 - Present_)**
+**MSDS Admissions Ambassador @ UVA School of Data Science (_June 2024 - Present_)**
 - Welcomed Visitors to Grounds and provided information tours of the building and academic programs
 - Met with prospective students via informative 1:1 appointments
 
