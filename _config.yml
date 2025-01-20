@@ -1,12 +1,23 @@
+# Site settings
 title: Kurt Samuels Jr
 logo: /assets/msds.png
-#description:
-show downloads: true
+
+# Show downloads
+show_downloads: true
+
+# Theme settings
 theme: jekyll-theme-dinky
+
+# External links
 external_links:
   - name: LinkedIn
-    url: www.linkedin.com/in/kurt-jr
+    url: https://www.linkedin.com/in/kurt-jr
+
+# GitHub links
 github:
   zip_url: /assets/msdsResume.pdf
-  another_url: www.linkedin.com/in/kurt-jr
-plugins: jekyll-remote-theme
+  another_url: https://www.linkedin.com/in/kurt-jr
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
