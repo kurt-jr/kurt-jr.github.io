@@ -5,6 +5,7 @@
 
 ## Education
  M.S., Data Science	| The University of Virginia School of Data Science (_May 2025_)
+ 
  B.A., Cognitive Sciecne - Psychology | The University of Virginia (_May 2024_)
 
 ## Experience
