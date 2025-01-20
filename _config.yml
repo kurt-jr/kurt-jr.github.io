@@ -9,3 +9,4 @@ external_links:
 github:
   zip_url: /assets/msdsResume.pdf
   another_url: www.linkedin.com/in/kurt-jr
+plugins: jekyll-remote-theme
