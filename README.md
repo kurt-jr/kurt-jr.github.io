@@ -1,12 +1,12 @@
-# **Kurt Samuels Jr**
+
 ## Data Scientist
 
 #### Technical Skills: Python, R, SQL, AWS, C
 
 ## Education
- M.S., Data Science	| The University of Virginia School of Data Science (_May 2025_)
+M.S., Data Science	| The University of Virginia School of Data Science (_May 2025_)
  
- B.A., Cognitive Sciecne - Psychology | The University of Virginia (_May 2024_)
+B.A., Cognitive Sciecne - Psychology | The University of Virginia (_May 2024_)
 
 ## Experience
 **UVA School of Data Science: MSDS Admissions Ambassador(_June 2024 - Present_)**
