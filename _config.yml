@@ -6,3 +6,6 @@ theme: jekyll-theme-dinky
 external_links:
   - name: LinkedIn
     url: www.linkedin.com/in/kurt-jr
+github:
+  zip_url: /assets/msdsResume.pdf
+  another_url: www.linkedin.com/in/kurt-jr
