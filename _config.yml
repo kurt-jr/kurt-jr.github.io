@@ -1,7 +1,7 @@
 title: Kurt Samuels Jr
 logo: /assets/msds.png
 #description:
-show downloads: false
+show downloads: true
 theme: jekyll-theme-dinky
 external_links:
   - name: LinkedIn
