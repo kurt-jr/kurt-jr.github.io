@@ -17,12 +17,12 @@
     <div class="wrapper">
       <header>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
-        <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
         {% if site.logo %}
           <a href="{{ site.baseurl | default: '/' }}">
-            <img src="{{ site.logo }}" alt="{{ site.title }} Logo" style="height: 50px; display: block; margin-bottom: 10px;">
+            <img src="{{ site.logo }}" alt="{{ site.title }} Logo" style="height: 100px; display: block; margin-bottom: 10px;">
           </a>
         {% endif %}
+        <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
         <ul>
           {% if site.show_downloads %}
             <li class="download">
