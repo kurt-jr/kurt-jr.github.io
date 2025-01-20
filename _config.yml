@@ -1,5 +1,8 @@
 title: Kurt Samuels Jr
 logo: /assets/msds.png
-description: ![LinkedIn](www.linkedin.com/in/kurt-jr)
+#description:
 show downloads: false
 theme: jekyll-theme-dinky
+external_links:
+  - name: LinkedIn
+    url: www.linkedin.com/in/kurt-jr
