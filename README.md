@@ -1,7 +1,6 @@
 
-## Data Scientist
+## Data Scientist | Python, R, SQL, AWS, C
 ![SDS](/assets/SDSLogo.png)
-#### Technical Skills: Python, R, SQL, AWS, C
 
 ## Education
 - M.S., Data Science	| The University of Virginia School of Data Science (_May 2025_)
