@@ -22,6 +22,8 @@
 - Organized fun and relaxing events for the dorm community. Devised community outreach programs within Charlottesville
 - Nominated for resident of the month for November & March by the National Residence Hall Honorarium UVA
 
+ ![Ambassador](/assets/bsdsO.JPEG)
+
 ## Projects/ Research
 ### Masters Capstone
 [Strategic Storytelling Capstone]
