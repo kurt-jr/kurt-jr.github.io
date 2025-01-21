@@ -19,7 +19,7 @@
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         {% if site.logo %}
           <a href="{{ site.baseurl | default: '/' }}">
-            <img src="{{ site.logo }}" alt="{{ site.title }} Logo" style="height: 150px; width: auto;display: block; margin-bottom: 10px;">
+            <img src="{{ site.logo }}" alt="{{ site.title }} Logo" style="height: 200px; width: auto;display: block; margin-bottom: 10px;">
           </a>
         {% endif %}
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
@@ -31,8 +31,7 @@
           {% endif %}
           <li class="linkedin">
             <a class="buttons" href="https://www.linkedin.com/in/kurt-jr" target="_blank">
-              <img src="/assets/linkedinlogo.png" alt="LinkedIn Logo">
-              Visit LinkedIn
+              <img src="/assets/linkedinlogo.png" alt="LinkedIn Logo" style="height: 100px;">Visit LinkedIn
             </a>
           </li>
         </ul>
