@@ -4,7 +4,7 @@ logo: /assets/msds.png
 
 description: My Personal Portfolio
 # Show downloads
-show_downloads: false
+show_downloads: true
 
 # Theme settings
 theme: jekyll-theme-dinky
