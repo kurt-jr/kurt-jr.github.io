@@ -7,7 +7,7 @@
 
 ## Experience
 **MSDS Admissions Ambassador @ UVA School of Data Science (_June 2024 - Present_)**
-- Welcomed Visitors to Grounds and provided information tours of the building and academic programs
+- Welcomed Visitors to Grounds and provided information and tours of the building and academic programs
 - Met with prospective students via informative 1:1 appointments
 
 **Data Report Designer @ JABA (Jefferson Area Board of Aging) (_January 2024 - June 2024_)**
@@ -15,8 +15,8 @@
 - Determined optimal formats for capturing and displaying data in Excel dashboards to present goal progression
 
 ** Psycholinguistics Research Assistant @ UVA Cognitive Science Research (_June 2023 - June 2024_)**
-- Facilitated development of a study researching Vocal Similarity Among Siblings using PRAAT data analysis program
-- Conducted interviews with three pairs of research participants to detect nuisances of speech between siblings
+- Facilitated the development of a study researching Vocal Similarity Among Siblings using the PRAAT data analysis program
+- Conducted interviews with three pairs of research participants to detect nuances of speech between siblings
 
 **Association Council Vice-President @ UVA Residential Leadership Experience (_August 2023 - June 2024_)**
 - Organized fun and relaxing events for the dorm community. Devised community outreach programs within Charlottesville
@@ -30,10 +30,16 @@
 - Analyzed NLP emotion scores and various other TV show genre trends and metrics to maximize viewership
 - Developed an interactive dashboard visualizing key insights for creators, network executives, and media analysts
 ### Genius API & Apple Music Listening History(Personal Project) - [Github Repo](https://github.com/kurt-jr/Genius)
-- Using the Genius API we can analyze the lyrical complexity of the most popular songs on Genius.com
+- Using the Genius API, we can analyze the lyrical complexity of the most popular songs on Genius.com
 - Has your Apple Music Replay or Spotify Wrapped not given you the deep graphical insights you want? No worries!
-- Attained CSVs & JSONs from Apple containing my personal library & listening history. Then graphed insights and performed predictive analysis on data
-  ![artistMonthly](/assets/artistMonthly.png) ![Forecast](/assets/forecast.png) ![Diversity Chart](/assets/diversityChart.png) 
+- Attained CSVs & JSONs from Apple containing my personal library & listening history. Then, graphed insights and performed predictive analysis on data
+  ![artistMonthly](/assets/artistMonthly.png) ![Forecast](/assets/forecast.png) ![Diversity Chart](/assets/diversityChart.png)
+
+### Large Language Model for Spoiler Free Reading 
+- Constructed an LLM that can give the reader spoiler-free information about a novel when given a question about the Harry Potter Series
+![LLM Paper](/assets/Spoiler_Free_Book_Summarization_LLMs.pdf)
+### Convolutional Neural Network Car Brand Classification 
+- Coded a CNN that, given an image of a car, identifies the car brand trained on 4500+ images of cars of the Top 50 US brands.
 
 ### A Phenomenological Examination of Vocal Similarity among Siblings: Investigating the Mechanisms and Implications
 - Analyzed data on vocal frequency and timbre to determine linguistic similarities and differences between siblings
