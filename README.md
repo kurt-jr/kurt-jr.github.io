@@ -38,7 +38,7 @@
 ### Large Language Model for Spoiler Free Reading 
 - Constructed an LLM that can give the reader spoiler-free information about a novel when given a question about the Harry Potter Series
 
-![LLM Paper](/assets/Spoiler_FreeLLMs)
+![LLM Paper](/assets/Spoiler_FreeLLMs.png)
 ### Convolutional Neural Network Car Brand Classification 
 - Coded a CNN that, given an image of a car, identifies the car brand trained on 4500+ images of cars of the Top 50 US brands.
 
