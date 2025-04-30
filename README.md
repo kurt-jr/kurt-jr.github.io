@@ -32,15 +32,18 @@
 ### Genius API & Apple Music Listening History(Personal Project) - [Github Repo](https://github.com/kurt-jr/Genius)
 - Using the Genius API, we can analyze the lyrical complexity of the most popular songs on Genius.com
 - Has your Apple Music Replay or Spotify Wrapped not given you the deep graphical insights you want? No worries!
-- Attained CSVs & JSONs from Apple containing my personal library & listening history. Then, graphed insights and performed predictive analysis on data
+- Attained CSVs & JSONs from Apple containing my personal library & listening history. Then, graphed insights and performed predictive analysis on the data
   ![artistMonthly](/assets/artistMonthly.png) ![Forecast](/assets/forecast.png) ![Diversity Chart](/assets/diversityChart.png)
 
 ### Large Language Model for Spoiler Free Reading 
 - Constructed an LLM that can give the reader spoiler-free information about a novel when given a question about the Harry Potter Series
+- Fine-tuned Qwen and LLaMA models on Harry Potter text and GPT-4o generated question-response pairs for more accurate model outputs
 
 ![LLM Paper](/assets/Spoiler_FreeLLMs.png)
 ### Convolutional Neural Network Car Brand Classification 
 - Coded a CNN that, given an image of a car, identifies the car brand trained on 4500+ images of cars of the Top 50 US brands.
+- Performed Clustering to filter out non-car images.
+- ![Github Repo](https://github.com/kurt-jr/carbrand-cnn)
 
 ### A Phenomenological Examination of Vocal Similarity among Siblings: Investigating the Mechanisms and Implications
 - Analyzed data on vocal frequency and timbre to determine linguistic similarities and differences between siblings
