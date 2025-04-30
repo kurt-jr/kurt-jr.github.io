@@ -40,6 +40,7 @@
 - Fine-tuned Qwen and LLaMA models on Harry Potter text and GPT-4o generated question-response pairs for more accurate model outputs
 
 ![LLM Paper](/assets/Spoiler_FreeLLMspg1.png)
+
 ![Full Paper](https://github.com/kurt-jr/kurt-jr.github.io/blob/main/assets/Spoiler_Free_Book_Summarization_LLMs.pdf)
 ### Convolutional Neural Network Car Brand Classification 
 - Coded a CNN that, given an image of a car, identifies the car brand trained on 4500+ images of cars of the Top 50 US brands.
