@@ -39,7 +39,7 @@
 - Constructed an LLM that can give the reader spoiler-free information about a novel when given a question about the Harry Potter Series
 - Fine-tuned Qwen and LLaMA models on Harry Potter text and GPT-4o generated question-response pairs for more accurate model outputs
 
-![LLM Paper](/assets/Spoiler_FreeLLMs.png)
+![LLM Paper](/assets/Spoiler_FreeLLMspg1.png)
 ### Convolutional Neural Network Car Brand Classification 
 - Coded a CNN that, given an image of a car, identifies the car brand trained on 4500+ images of cars of the Top 50 US brands.
 - Performed Clustering to filter out non-car images.
