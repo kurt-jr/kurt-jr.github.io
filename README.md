@@ -29,6 +29,7 @@
 [Strategic Storytelling Capstone]
 - Analyzed NLP emotion scores and various other TV show genre trends and metrics to maximize viewership
 - Developed an interactive dashboard visualizing key insights for creators, network executives, and media analysts
+- [Full Paper](https://www.arxiv.org/abs/2506.00076)
 ### Genius API & Apple Music Listening History(Personal Project) - [Github Repo](https://github.com/kurt-jr/Genius)
 - Using the Genius API, we can analyze the lyrical complexity of the most popular songs on Genius.com
 - Has your Apple Music Replay or Spotify Wrapped not given you the deep graphical insights you want? No worries!
