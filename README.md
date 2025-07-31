@@ -1,4 +1,4 @@
-# Data Science, Analytics, & Engineering  | Python, R, SQL, AWS, C
+#Data Scientist  | Data Science, Analytics, & Engineering  | Python, R, SQL, AWS, C
 ![SDS](/assets/SDSVLogo.png)
 
 ## Education
@@ -6,7 +6,9 @@
 - B.A., Cognitive Sciecne - Psychology | The University of Virginia (_May 2024_)
 
 ## Experience
-**MSDS Admissions Ambassador @ UVA School of Data Science (_June 2024 - Present_)**
+**Data Scientist @ Pollstar(OVG) (_June 2025 - Present_)**
+
+**MSDS Admissions Ambassador @ UVA School of Data Science (_June 2024 - May 2025_)**
 - Welcomed Visitors to Grounds and provided information and tours of the building and academic programs
 - Met with prospective students via informative 1:1 appointments
 
