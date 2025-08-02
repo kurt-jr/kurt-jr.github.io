@@ -1,4 +1,4 @@
-#Data Scientist  | Data Science, Analytics, & Engineering  | Python, R, SQL, AWS, C
+# Data Scientist  | Data Science, Analytics, & Engineering  | Python, R, SQL, AWS, C
 ![SDS](/assets/SDSVLogo.png)
 
 ## Education
