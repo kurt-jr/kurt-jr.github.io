@@ -1,12 +1,15 @@
-# Data Science, Analytics, & Engineering  | Python, R, SQL, AWS, C
-![SDS](/assets/SDSVLogo.png)
+# Data Scientist  | Data Science, Analytics, & Engineering  | Python, R, SQL, AWS, C
+![SDS](/assets/SDSVLogo.png) 
+![PSovg](/assets/PSLogo.png)
 
 ## Education
 - M.S., Data Science	| The University of Virginia School of Data Science (_May 2025_)
 - B.A., Cognitive Sciecne - Psychology | The University of Virginia (_May 2024_)
 
 ## Experience
-**MSDS Admissions Ambassador @ UVA School of Data Science (_June 2024 - Present_)**
+**Data Scientist @ Pollstar(OVG) (_June 2025 - Present_)**
+
+**MSDS Admissions Ambassador @ UVA School of Data Science (_June 2024 - May 2025_)**
 - Welcomed Visitors to Grounds and provided information and tours of the building and academic programs
 - Met with prospective students via informative 1:1 appointments
 
@@ -29,6 +32,7 @@
 [Strategic Storytelling Capstone]
 - Analyzed NLP emotion scores and various other TV show genre trends and metrics to maximize viewership
 - Developed an interactive dashboard visualizing key insights for creators, network executives, and media analysts
+- [Full Paper](https://www.arxiv.org/abs/2506.00076)
 ### Genius API & Apple Music Listening History(Personal Project) - [Github Repo](https://github.com/kurt-jr/Genius)
 - Using the Genius API, we can analyze the lyrical complexity of the most popular songs on Genius.com
 - Has your Apple Music Replay or Spotify Wrapped not given you the deep graphical insights you want? No worries!
