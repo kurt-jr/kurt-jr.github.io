@@ -1,5 +1,6 @@
 # Data Scientist  | Data Science, Analytics, & Engineering  | Python, R, SQL, AWS, C
-![SDS](/assets/SDSVLogo.png) ![PSovg](/assets/PSLogo.png)
+![SDS](/assets/SDSVLogo.png) 
+![PSovg](/assets/PSLogo.png)
 
 ## Education
 - M.S., Data Science	| The University of Virginia School of Data Science (_May 2025_)
