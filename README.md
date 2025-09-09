@@ -16,7 +16,7 @@
 - Corresponded with managers and directors to ascertain methods of data collecting, formatting, and targets for data
 - Determined optimal formats for capturing and displaying data in Excel dashboards to present goal progression
 
-** Psycholinguistics Research Assistant @ UVA Cognitive Science Research (_June 2023 - June 2024_)**
+**Psycholinguistics Research Assistant @ UVA Cognitive Science Research (_June 2023 - June 2024_)**
 - Facilitated the development of a study researching Vocal Similarity Among Siblings using the PRAAT data analysis program
 - Conducted interviews with three pairs of research participants to detect nuances of speech between siblings
 
